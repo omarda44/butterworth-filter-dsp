@@ -2,6 +2,8 @@
 
 Python implementation of an Nth-order Butterworth low-pass filter using the bilinear transform and frequency-domain filtering.
 
+![Butterworth Filter Results](butterworth_filter.png)
+
 ## Overview
 
 This project was developed as part of a Digital Signal Processing course.
